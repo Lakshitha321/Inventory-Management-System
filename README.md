@@ -24,7 +24,7 @@ A full-stack Inventory Management System built with **Spring Boot**, **JavaScrip
 | Image Upload | MultipartFile (Spring Boot)     |
 | Tools        | VS Code, IntelliJ, Postman, Git |
 
----
+
 
 
 

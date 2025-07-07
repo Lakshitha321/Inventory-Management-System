@@ -1,0 +1,50 @@
+.inventory-container {
+  padding: 20px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.inventory-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.inventory-table th,
+.inventory-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.inventory-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.image-cell {
+  width: 120px;
+  height: 120px;
+  text-align: center;
+}
+
+.inventory-image {
+  max-width: 100px;
+  max-height: 100px;
+  object-fit: contain;
+}
+
+.btn {
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+}
